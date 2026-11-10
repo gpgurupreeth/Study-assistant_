@@ -4,8 +4,8 @@ AI Study Assistant is a full-stack study companion for students who spend too mu
 
 ## Live App
 
-- Frontend: [https://ai-study-assistant-frontend-gilt.vercel.app/](https://ai-study-assistant-frontend-gilt.vercel.app/)
-- Backend API: deployed on Render (free tier) and connected to the Vercel frontend through the `VITE_API_URL` environment variable
+- Frontend: [https://study-assistant-iota-flax.vercel.app](https://study-assistant-iota-flax.vercel.app)
+- Backend API: [https://ai-study-assistant-api-1vad.onrender.com/docs](https://ai-study-assistant-api-1vad.onrender.com/docs)
 
 ## What It Does
 
